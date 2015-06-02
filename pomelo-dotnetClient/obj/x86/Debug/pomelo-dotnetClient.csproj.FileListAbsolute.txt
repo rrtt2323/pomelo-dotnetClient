@@ -1,0 +1,12 @@
+C:\Users\vostro\Desktop\pomelo-socket\pomelo-dotnetClient\bin\Debug\pomelo-dotnetClient.dll
+C:\Users\vostro\Desktop\pomelo-socket\pomelo-dotnetClient\bin\Debug\pomelo-dotnetClient.pdb
+C:\Users\vostro\Desktop\pomelo-socket\pomelo-dotnetClient\bin\Debug\SimpleJson.dll
+C:\Users\vostro\Desktop\pomelo-socket\pomelo-dotnetClient\obj\x86\Debug\pomelo-dotnetClient.dll
+C:\Users\vostro\Desktop\pomelo-socket\pomelo-dotnetClient\obj\x86\Debug\pomelo-dotnetClient.pdb
+C:\Users\vostro\Desktop\pomelo-socket\pomelo-dotnetClient\obj\x86\Debug\pomelo-dotnetClient.csprojResolveAssemblyReference.cache
+C:\Users\vostro\Desktop\pomelo\pomelo-dotnetClient\pomelo-dotnetClient\bin\Debug\pomelo-dotnetClient.dll
+C:\Users\vostro\Desktop\pomelo\pomelo-dotnetClient\pomelo-dotnetClient\bin\Debug\pomelo-dotnetClient.pdb
+C:\Users\vostro\Desktop\pomelo\pomelo-dotnetClient\pomelo-dotnetClient\bin\Debug\SimpleJson.dll
+C:\Users\vostro\Desktop\pomelo\pomelo-dotnetClient\pomelo-dotnetClient\obj\x86\Debug\pomelo-dotnetClient.csprojResolveAssemblyReference.cache
+C:\Users\vostro\Desktop\pomelo\pomelo-dotnetClient\pomelo-dotnetClient\obj\x86\Debug\pomelo-dotnetClient.dll
+C:\Users\vostro\Desktop\pomelo\pomelo-dotnetClient\pomelo-dotnetClient\obj\x86\Debug\pomelo-dotnetClient.pdb
